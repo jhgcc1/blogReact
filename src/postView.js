@@ -13,7 +13,9 @@ const useStyles = makeStyles({
       width:350
     }
   });
-
+function tetet(){
+    
+}
 
 function PostsView(props){
     console.log(props.posts)
